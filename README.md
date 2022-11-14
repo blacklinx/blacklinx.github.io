@@ -1,2 +1,2 @@
 
-Redirecting to my new URL.
+Redirection for new URL.
